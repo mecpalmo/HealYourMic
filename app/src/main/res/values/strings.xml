@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Heal Your Mic</string>
+    <string name="settings">SETTINGS</string>
+    <string name="repair_your_record">REPAIR YOUR RECORD</string>
+    <string name="record_your_own_file">RECORD YOUR OWN FILE</string>
+    <string name="calibrate_your_mic">CALIBRATE YOUR MIC</string>
+    <string name="stop">STOP</string>
+    <string name="rec">REC</string>
+    <string name="stop2">STOP</string>
+    <string name="rec2">REC</string>
+    <string name="textview">Welcome to \"Heal Your Mic\" App</string>
+    <string name="repair_selected_file">Repair Selected File</string>
+    <string name="textview2">No current process running</string>
+    <string name="load_prepared_file">Load Prepared File</string>
+    <string name="measure_sound_level">Measure Sound Level</string>
+    <string name="textview3">No current process running</string>
+    <string name="select_file_for_repairing">Select File for Repairing</string>
+    <string name="_0_00">0:00</string>
+    <string name="create_your_own_recording">Create your own Recording</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_0_0_db">0,0 dB</string>
+    <string name="apply">Apply</string>
+    <string name="turn_on_the_measurment">Turn on the measurment    </string>
+    <string name="_0_db">0 dB</string>
+    <string name="selected_file">Selected:</string>
+    <string name="todo">TODO</string>
+    <string name="load_file">Load File</string>
+</resources>
